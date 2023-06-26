@@ -10,7 +10,7 @@
 
 ## 🔭 Projects
 
-- [Project 1](link-to-project): Brief description of the project.
+- [Project 1 - Web Developers Team Portfolio](https://github.com/nikodemlesiecki/krauzeandlesiecki.dev): The krauzeandlesiecki Web Developers Team Portfolio is a private project showcasing the work and expertise of a talented group of web developers.
 - [Project 2](link-to-project): Brief description of the project.
 - [Project 3](link-to-project): Brief description of the project.
 
