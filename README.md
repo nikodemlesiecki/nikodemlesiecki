@@ -22,7 +22,7 @@ I'm currently focused on improving my skills in Front-end. I believe in lifelong
 
 - LinkedIn: [Your LinkedIn Profile URL]
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Portfolio: [Link to your portfolio or personal website]
+- Portfolio: [[Link to your portfolio or personal website]](https://nikodemlesiecki.github.io/krauzeandlesiecki.dev/)
 
 ## 💬 Ask Me Anything
 
