@@ -20,7 +20,7 @@ I'm currently focused on improving my skills in Front-end. I believe in lifelong
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: [Your LinkedIn Profile URL](https://twitter.com/YourTwitterHandle)
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - Portfolio: [krauzeandlesiecki.dev](https://nikodemlesiecki.github.io/krauzeandlesiecki.dev/)
 
